@@ -4,17 +4,17 @@
     "url": "https://guicai.work",
     "icon": "https://favicons.githubusercontent.com/guicai.work",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1308,
-    "timeDay": 1508,
-    "timeWeek": 1416,
-    "timeMonth": 1368,
-    "timeYear": 1308,
+    "time": 1309,
+    "timeDay": 1490,
+    "timeWeek": 1418,
+    "timeMonth": 1370,
+    "timeYear": 1309,
     "dailyMinutesDown": {}
   }
 ]
